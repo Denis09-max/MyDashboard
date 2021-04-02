@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "KK4A_UI_09_TUGAS1"
